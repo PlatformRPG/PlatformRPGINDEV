@@ -56,9 +56,9 @@ public class GameScreen implements Screen
 
 		this.theGame = theGame;
 		Array<Music> trackList = new Array<Music>();
-//		trackList.add(Assets.faire);
-//		trackList.add(Assets.alchemist);
-//		trackList.add(Assets.theoldwizard);
+		trackList.add(Assets.faire);
+		trackList.add(Assets.alchemist);
+		trackList.add(Assets.theoldwizard);
 		this.tracks = new MusicQueue(trackList);
 		guiCam = new OrthographicCamera(320, 480);
 		guiCam.position.set(320 / 2, 480 / 2, 0);
