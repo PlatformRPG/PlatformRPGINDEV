@@ -1,0 +1,10 @@
+<?xml version= "1.0"?>
+<skills>
+     <skill>
+     	<name>Sword Wave</name>
+       	<projectile_image>swordrangeattack.png</projectile_image>
+        <attack_rating>200</attack_rating>
+        <base_damage>30</base_damage> 
+        <cooldown>5</cooldown> 
+    </skill>
+</skills>

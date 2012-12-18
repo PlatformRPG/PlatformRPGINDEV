@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "goblin3.png",
+	"frame": {"x":122,"y":0,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "platform.png",
+	"frame": {"x":154,"y":0,"w":64,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":12},
+	"sourceSize": {"w":64,"h":12}
+},
+{
+	"filename": "s1.png",
+	"frame": {"x":70,"y":0,"w":26,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":46},
+	"sourceSize": {"w":26,"h":46}
+},
+{
+	"filename": "s2.png",
+	"frame": {"x":0,"y":0,"w":22,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":44},
+	"sourceSize": {"w":22,"h":44}
+},
+{
+	"filename": "s3.png",
+	"frame": {"x":96,"y":0,"w":26,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":26,"h":45},
+	"sourceSize": {"w":26,"h":45}
+},
+{
+	"filename": "s4.png",
+	"frame": {"x":46,"y":0,"w":24,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":44},
+	"sourceSize": {"w":24,"h":44}
+},
+{
+	"filename": "s5.png",
+	"frame": {"x":22,"y":0,"w":24,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":44},
+	"sourceSize": {"w":24,"h":44}
+},
+{
+	"filename": "title.png",
+	"frame": {"x":0,"y":46,"w":250,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":250,"h":62},
+	"sourceSize": {"w":250,"h":62}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "spritesheetswordsman.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4045c71d2cfe90ba6be05b7d6af0893d$"
+}
+}
